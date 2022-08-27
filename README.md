@@ -33,8 +33,8 @@ Please contact https://github.com/OZ4Tech with any questions
 
 ## App Preview
 
-![App Preview]()
+![Weather Dashboard](https://user-images.githubusercontent.com/103383531/187006965-81e758bf-7d37-4b58-b9cb-3b2078f69ed8.gif)
 
 ## Deployed App Link
 
-Click [HERE]() to see our deployed app.
+Click [HERE](https://oz4tech.github.io/Server-Side-APIs-Challenge-Weather-Dashboard/) to see our deployed app.
